@@ -76,7 +76,7 @@ class Connection
 
     def disconnect
       puts "not connected yet"
-      end
+    end
   end
 
   state :connected do
